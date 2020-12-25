@@ -1,0 +1,27 @@
+{
+  "name": "scdash",
+  "version": "1.0.0",
+  "description": "user dashboard for soundcloud",
+  "main": "/pages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "nexst build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McC4b3r/soundcloudDash.git"
+  },
+  "author": "Ryan McCabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McC4b3r/soundcloudDash/issues"
+  },
+  "homepage": "https://github.com/McC4b3r/soundcloudDash#readme",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
