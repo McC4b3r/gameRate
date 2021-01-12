@@ -1,3 +1,3 @@
-## soundcloud user dashboard ##
+## Game Information webApp ##
 
 initial commit
