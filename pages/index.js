@@ -38,8 +38,8 @@ const HomePage = () => {
     headers: {
       "Accept": 'application/json',
       "Access-Control-Allow-Origin": 'true',
-      "Client-ID": "urs071f1x74smywcowgwbphgjfdk4n",
-      "Authorization": "Bearer 305h0sq7p4222dktekwil0mistsuy1",
+      "Client-ID": "",
+      "Authorization": '',
     },
   })
     .then((res) => {
